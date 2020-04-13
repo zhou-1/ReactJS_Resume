@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Zhou S",
+    "occupation":"USA",
+    "description":"I am a current Master Student in BU ECE. Right now, I have 2 industrial intern experiences, published 1 research paper in WACV 2019, have several campus working experiences (IT help center, programmer, Tutor, TA...) and won several prizes in Hackathon",
+    "image":"profilepic.jpg",
+    "bio":"Currently M.S. in Boston University: Computer Engineering. Bachelor in MU: Computer Engineering major and Mathematics minor. Programming languages: Java, Python, C, C++, HTML, CSS, JavaScript, MySQL. Framework: Bootstrap, Django, Flask, React, React Native, AWS. System: Linux, Windows, Mac, Kubernetes ",
+    "contactmessage":"If you have any chance to see this website and find there is a opportunity for me, please contact with me through Linkedin / Email! Thank you in advance!",
+    "email": "zhoushen@bu.edu",
+    "phone": "Contact with me through Linkedin",
+    "address":{
+      "street":"233 Bay State Road",
+      "city":"Boston",
+      "state":"MA",
+      "zip": "02215",
+      "job": "Master Student"
+    },
+    "website": "https://zhou-1.github.io/",
+    "resumedownload":"https://www.linkedin.com/in/zhou-shen-684a60bb/",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/zhou-shen-684a60bb/",
+        "className":"fa fa-linkedin"
+      },  
+      {
+        "name":"github",
+        "url":"https://github.com/zhou-1",
+        "className":"fa fa-github"
+      }  
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Boston University",
+        "degree":"Masters in ECE (software)",
+        "graduated":"December 2020",
+        "description":"Electrical & Computer Engineering. Led several team projects and dived into software, cloud, embedded and Virtual technology."
+      },
+      {
+        "school":"Marquette University",
+        "degree":"Bachelor in Computer Engineering and minor in Mathematics",
+        "graduated":"December 2018",
+        "description":"Computer Engineering - intelligent system & Mathematics. Led several team projects and gained computer vision lab experience."
+      }
+    ],
+    "work":[
+      {
+        "company":"Hikvision company",
+        "title":"Software Develop Engineer Intern",
+        "years":"Jan 2019 - July 2019",
+        "description": "Developed a software that identifies all needed networking cameras in GigE Vision in a “monitoring car with three dimensional” system. Implemented the self-developed algorithms with select model for enumerating devices much faster with more stability. Built a corresponding Watch Dog service for monitoring the running status of the software. Created a webpage that provides visions for the front, end, top and bottom of the car"
+      },
+      {
+        "company":"ExpressToChina company",
+        "title":"Web Developer Intern",
+        "years":"May 2017 - Aug 2017",
+        "description": "Developed front end and data pipeline algorithms of the website using HTML, CSS, JavaScript. Maintained, created and modified the database of postal and user information using MySQL. Implement ed a full stack solution for the optimal workflow. Maintained system quality through extensive code review and functional testing"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"HTML & CSS",
+        "level":"80%"
+      },
+      {
+        "name":"JS",
+        "level":"70%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"65%"
+      },
+      {
+        "name":"React JS",
+        "level":"60%"
+      },
+      {
+        "name":"Django",
+        "level":"55%"
+      },
+      {
+        "name":"AWS",
+        "level":"50%"
+      },
+      {
+        "name":"React Native",
+        "level":"50%"
+      },
+      {
+        "name":"Cloud",
+        "level":"50%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"Flask",
+        "level":"45%"
+      },
+      {
+        "name":"C",
+        "level":"40%"
+      },
+      {
+        "name":"MySQL",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Personal Websites",
+        "category":"Personal websites in different framework.",
+        "image":"personal-web.PNG",
+        "url":"https://zhou-1.github.io/"
+      },
+      {
+        "title":"ProductsArrivalNotices",
+        "category":"During this serious Coronavirus period, hope my Arrival Notices project for products (like surgical mask 😷, hand sanitizer 👐, Medical Exam Gloves ⛄) in market (Amazon) can help a little bit. ❤️",
+        "image":"arrival.PNG",
+        "url":"https://github.com/zhou-1/ProductsArrivalNotices"
+      },
+      {
+        "title":"COVID-19 Map App",
+        "category":"Show COVID-19 cases on map based on React Native",
+        "image":"COVID19.PNG",
+        "url":""
+      },
+      {
+        "title":"Networking Inside of Kubernetes (With Redhat & Bose)",
+        "category":"Minimum acceptance criteria is that compared with current Raft algorithm, creating a faster and stable algorithm with “gossip protocol”.",
+        "image":"kubernetes.PNG",
+        "url":"https://github.com/BU-CLOUD-S20/Networking-inside-of-Kubernetes"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"During Zhou's intern, he finished his work wonderfully and on time! Proud of him!",
+        "user":"Mr.Du, Manager of Hikvision company"
+      },
+      {
+        "text":"Zhou proposed ideas for improving our website and contributed a lot during his intern.",
+        "user":"Brandon, Manager of ExpresstoChina company"
+      },
+      {
+        "text":"An awesome student worth to write a recommendation letter!",
+        "user":"Dr.Ababei, prof of MU"
+      },
+      {
+        "text":"Did a really good job in lab and academic life!",
+        "user":"Dr.Medeiros, prof of MU"
+      }
+    ]
+  }
+}
